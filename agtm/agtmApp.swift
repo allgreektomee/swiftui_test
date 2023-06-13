@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-@main
+@main // 시작
 struct agtmApp: App {
     var body: some Scene {
         WindowGroup {
